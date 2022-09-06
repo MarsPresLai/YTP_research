@@ -1,2 +1,2 @@
-# YTP Research with Pecu
+# YTP Research with Prof. Pecu
 ## Hello World! by lalala
