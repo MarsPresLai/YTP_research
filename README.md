@@ -9,4 +9,9 @@
 
 ## 練習項目:
 ### Week 1: Github & VSCode develop environment install and setup
+#### Built this repo
 ### Week 2: Crawler
+#### TODO:
+:::warn
+fill here!!
+:::
