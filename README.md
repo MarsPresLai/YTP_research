@@ -12,4 +12,4 @@
 #### Built this repo
 ### Week 2: Crawler
 #### TODO:
-> :warning: fill here!!
+> [sample](https://github.com/MarsPresLai/YTP_research/blob/main/Week2:crawler.ipynb)
