@@ -1,6 +1,6 @@
 ## What purpose?
 
-## Who is customers?
+## Who is customer?
 
 ## How to achieve?
 
