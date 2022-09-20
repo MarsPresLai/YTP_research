@@ -11,5 +11,4 @@
 ### Week 1: Github & VSCode develop environment install and setup
 #### Built this repo
 ### Week 2: Crawler
-#### TODO:
-> [sample](https://github.com/MarsPresLai/YTP_research/blob/main/Week2:crawler.ipynb)
+> [sample code](https://github.com/MarsPresLai/YTP_research/blob/main/Week2:crawler.ipynb)
