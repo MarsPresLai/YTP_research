@@ -8,8 +8,8 @@
 ### 指導業師: 子坤
 
 ## 練習項目:
-### Week 1: Github & VSCode develop environment install and setup
+### :star:Week 1: Github & VSCode develop environment install and setup
 #### Built this repo
-### Week 2: Crawler
+### :star:Week 2: Crawler
 > [sample code](https://github.com/MarsPresLai/YTP_research/blob/main/Week2:crawler.ipynb)
-### Week 3: Machine Learning
+### :star:Week 3: Machine Learning
