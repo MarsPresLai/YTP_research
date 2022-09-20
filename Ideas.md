@@ -1,4 +1,4 @@
-# Coloring Black and White 
+# Coloring Black and White Images
 ## What purpose?
 Make Black & White Images Become colorful
 ## Who is customer?
