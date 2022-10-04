@@ -13,3 +13,7 @@
 ### :star:Week 2: Crawler
 > [sample code](https://github.com/MarsPresLai/YTP_research/blob/main/Week2:crawler.ipynb)
 ### :star:Week 3: Machine Learning
+
+
+## Resources
+### [Collab Table](https://docs.google.com/document/d/1RAxHgYbWEXzO4gjd0t38tT7voA3Si0b45UDsn--Fdbs/mobilebasic)
